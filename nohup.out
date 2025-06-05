@@ -1,0 +1,14 @@
+usage: collect_model_outs.py [-h] [--dataset DATASET] [--split SPLIT]
+                             [--run_percent RUN_PERCENT] [--rm RM] [--llm LLM]
+                             [--max_new_token MAX_NEW_TOKEN]
+                             [--llm_gpu LLM_GPU] [--rm_gpu RM_GPU] [--recover]
+                             [--config CONFIG] [--out_file OUT_FILE]
+                             [--sys_prompt SYS_PROMPT]
+collect_model_outs.py: error: unrecognized arguments: [Instruction] Please generate helpful answer. 
+usage: collect_model_outs.py [-h] [--dataset DATASET] [--split SPLIT]
+                             [--run_percent RUN_PERCENT] [--rm RM] [--llm LLM]
+                             [--max_new_token MAX_NEW_TOKEN]
+                             [--llm_gpu LLM_GPU] [--rm_gpu RM_GPU] [--recover]
+                             [--config CONFIG] [--out_file OUT_FILE]
+                             [--sys_prompt SYS_PROMPT]
+collect_model_outs.py: error: unrecognized arguments: [Instruction] Please generate helpful answer. 
